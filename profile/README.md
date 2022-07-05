@@ -5,5 +5,5 @@ We are a research group at [The University of Westminster](https://www.westminst
 
 You can read more about our projects, publications and people at this [link](https://www.westminster.ac.uk/research/groups-and-centres/centre-for-parallel-computing).
 
-Under this GitHub organisation you'll find software that we develop for the various research projects we collaborate on. You may also want to check out GitHub orgs of specific projectsn, like [MiCADO](https://github.com/micado-scale) :wrench: [PITHIA-NRF](https://github.com/pithia-eu) :milky_way: and [DIGITbrain](https://github.com/digitbrain) :factory:
+Under this GitHub organisation you'll find software that we develop for the various research projects we collaborate on. You may also want to check out GitHub orgs of specific projects, like [MiCADO](https://github.com/micado-scale) :wrench: [PITHIA-NRF](https://github.com/pithia-eu) :milky_way: and [DIGITbrain](https://github.com/digitbrain) :factory:
 
